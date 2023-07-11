@@ -1,0 +1,16 @@
+01169424390683710a106593881c8ba6 *DESCRIPTION
+db5aa35501a096ef52bd51cc9edf733c *NAMESPACE
+e26ca3bf728bb66d325dfc373987e46d *NEWS.md
+d5ab0efd38a62eff15ae51dfcb8f2a78 *R/crosswalk.R
+02f96b408a75410f54dedc454548a9b2 *R/eunis.habitats-package.R
+a7394d697959ad7be3286c02872cb3ae *R/eunis_habitats.R
+3e41dd74362a53593ce69636478b272e *R/has_row.R
+bdfdd3985aa195fe3d157726a6261ddb *R/sysdata.rda
+55740abf09fb7b825eef3b9469f77731 *README.md
+5a1053061b3e27765591f1296c1c578b *data/eunis_habitats.rda
+a139136e9cab97c9e8d4fe5574a762c2 *man/crosswalk.Rd
+ce760dafbec755a76417863b3e68f144 *man/eunis.habitats-package.Rd
+88bf66697800e6ab65b8ef9e859d0b39 *man/eunis_habitats.Rd
+1403379743be1b444ffa5c0250ebdd32 *man/figures/ccmar-logotype.svg
+58f9396636614181d8494590add0e936 *man/figures/logo.svg
+fd69cf7afa9167180c8d7f23eb1f1b07 *man/figures/pi-logotype-canonical-whole-v01.svg
